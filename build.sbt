@@ -8,3 +8,5 @@ organization := "com.BZ2MM6"
 libraryDependencies ++= Seq(
 	"com.google.guava" % "guava" % "15.0"
 )
+
+
